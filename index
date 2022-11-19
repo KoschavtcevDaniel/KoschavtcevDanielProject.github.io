@@ -3,20 +3,34 @@
 <head>
     <meta charset="utf-8" />
     <title>Project</title>
-    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="C://files/projectf/style.css" />
 
 </head>
 <body>
-    <header>
-        <div class = "head">
-            <img class = "logo" src = "Z://project/project/img/drupal-coder.svg">
-        </div>
-	<a href = ""></a>
-	<a href = ""></a>
-	<a href = ""></a>
-	<a href = ""></a>
+    <header class = "header">
+    <div class = "head">
+         <img class = "logo" src = "С://files/project/project/img/drupal-coder.svg">
+    </div>
+	<a href = "">Поддержка Drupal</a>
+	<a href = "">Администрирование</a>
+	<a href = "">Продвижение</a>
+	<a href = "">Реклама</a>
+    <a href = "">О нас</a>
+    <a href = "">Проекты</a>
+    <a href = "">Контакты</a>
 	<div> </div>
     </header>
+    <div class = "unheader">
+        <div>
+            <p>Поддержка сайтов на Drupal</p>
+            <p>Сопровождение и поддержка сайтов на CMS Drupal любых версий и запущенности</p>
+        </div>
+        <div>
+            <table>
+                <li></li>
+            </table>
+        </div>
+    </div>
 	
 </body>
 </html>
