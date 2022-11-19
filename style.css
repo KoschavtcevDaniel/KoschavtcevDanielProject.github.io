@@ -1,4 +1,9 @@
-#body{
+
+.header{
+    display: flex;
+    align-items: center;
     background-color: black;
     color:aliceblue;
+    background:  url(C://files/project/project/img/video.mp4);
+
 }
