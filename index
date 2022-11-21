@@ -3,34 +3,87 @@
 <head>
     <meta charset="utf-8" />
     <title>Project</title>
-    <link rel="stylesheet" type="text/css" href="C://files/projectf/style.css" />
-
+    <link rel="stylesheet" type="text/css" href="C://files/style.css" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,900;1,400;1,700&display=swap');
+    </style>
 </head>
 <body>
-    <header class = "header">
-    <div class = "head">
-         <img class = "logo" src = "С://files/project/project/img/drupal-coder.svg">
-    </div>
-	<a href = "">Поддержка Drupal</a>
-	<a href = "">Администрирование</a>
-	<a href = "">Продвижение</a>
-	<a href = "">Реклама</a>
-    <a href = "">О нас</a>
-    <a href = "">Проекты</a>
-    <a href = "">Контакты</a>
-	<div> </div>
-    </header>
-    <div class = "unheader">
-        <div>
-            <p>Поддержка сайтов на Drupal</p>
-            <p>Сопровождение и поддержка сайтов на CMS Drupal любых версий и запущенности</p>
+<div class = body>
+    <div class = "back" >
+        <img class = "bg_video" src = "https://catherineasquithgallery.com/uploads/posts/2021-02/1614273029_49-p-chernii-fon-aktualnogo-52.jpg">
+            <video autoplay loop muted class="bgvideo" style = "background-color: black;" id="bgvideo">
+                <source src="C://files/project/project/img/video.mp4" type="video/mp4"></source>
+             </video> 
+        <header class = "header">
+        <div class = "head">
+            <img class = "logo" src = "C://files/project/project/img/dc.svg">
         </div>
-        <div>
-            <table>
-                <li></li>
+        <div class = "href_l">
+	        <a class = "href" href = "/">Поддержка Drupal</a>
+	        <a class = "href" href = "/">Администрирование</a>
+	        <a class = "href" href = "/">Продвижение</a>
+	        <a class = "href" href = "/">Реклама</a>
+            <a class = "href" href = "/">О нас</a>
+            <a class = "href" href = "/">Проекты</a>
+            <a class = "href" href = "/">Контакты</a>
+	    </div>
+        </header>
+    <div class = "unheader">
+        <div class = "unheader_l">
+            <div class="punheader">Поддержка сайтов на Drupal</div>
+            <div class = "p_unheader"><div>Сопровождение и поддержка сайтов</div><div>на CMS Drupal любых версий и запущенности</div></div>
+         <div class = "tarif">
+                ТАРИФЫ
+         </div>
+        </div>
+        <div class = "unheader_r">
+            <table class = "table">
+                <tr class = "tab_r">
+                    <td class = "tab_d">
+                        <div class = "tab_ho">#1
+                            <img class = "png" src = "C://files/project/project/img/cup.png">
+                        </div>
+                        <div Class = "tab_u">Drupal-разработчик в России по версии Рейтинга Рунета</div>
+                    </td>
+                    <td class = "tab_d">
+                        <div class = "tab_h">3+</div>
+                        <div class = "tab_u">средний опыт специалистов более 3 лет</div>
+                    </td>
+                    <td class = "tab_d">
+                        <div class = "tab_h">14</div>
+                        <div class = "tab_u">лет опыта в сфере Drupal</div>
+                    </td> 
+                </tr>
+                <tr class = "tab_r">
+                    <td class = "tab_dn" ></td>
+                    <td class = "tab_dn"></td>
+                    <td class = "tab_dn"></td>
+                </tr>
+                <tr class = "tab_r">
+                    <td class = "tab_d">
+                        <div class = "tab_h">50+</div>
+                        <div class = "tab_u">модулей и тем в формате DrupalGive</div>
+                    </td>
+                    <td class = "tab_d">
+                        <div class = "tab_h">90 000+</div>
+                        <div class = "tab_u">часов поддержки сайтов на Drupal</div>
+                    </td>
+                    <td class = "tab_d">
+                        <div class = "tab_h">300+</div>
+                        <div class = "tab_u">проектов на поддержке</div>
+                    </td>
+                </tr>   
             </table>
         </div>
     </div>
-	
+	</div>
+    <div class = "list">
+            <div class = "block2">
+            <div class = "header_t">13 лет совершенствуем компетенции в Друпал поддержке!</div>
+            <div class = "text">Разрабатываем и оптимизируем модули, расширяем функциональность сайтов, обновляем дизайн</div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
