@@ -3,21 +3,21 @@
 <head>
     <meta charset="utf-8" />
     <title>Project</title>
-    <link rel="stylesheet" type="text/css" href="C://files/style.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,900;1,400;1,700&display=swap');
     </style>
 </head>
-<body>
+<body id = "body">
 <div class = body>
     <div class = "back" >
         <img class = "bg_video" src = "https://catherineasquithgallery.com/uploads/posts/2021-02/1614273029_49-p-chernii-fon-aktualnogo-52.jpg">
             <video autoplay loop muted class="bgvideo" style = "background-color: black;" id="bgvideo">
-                <source src="C://files/project/project/img/video.mp4" type="video/mp4"></source>
+                <source src="" type="video/mp4"></source>
              </video> 
         <header class = "header">
         <div class = "head">
-            <img class = "logo" src = "C://files/project/project/img/dc.svg">
+            <img class = "logo" src = "img/drupal-coder.svg">
         </div>
         <div class = "href_l">
 	        <a class = "href" href = "/">Поддержка Drupal</a>
@@ -42,7 +42,7 @@
                 <tr class = "tab_r">
                     <td class = "tab_d">
                         <div class = "tab_ho">#1
-                            <img class = "png" src = "C://files/project/project/img/cup.png">
+                            <img class = "png" src = "img/cup.png">
                         </div>
                         <div Class = "tab_u">Drupal-разработчик в России по версии Рейтинга Рунета</div>
                     </td>
@@ -82,6 +82,44 @@
             <div class = "block2">
             <div class = "header_t">13 лет совершенствуем компетенции в Друпал поддержке!</div>
             <div class = "text">Разрабатываем и оптимизируем модули, расширяем функциональность сайтов, обновляем дизайн</div>
+            </div>
+            <div class = "unblock2">
+                <div class = "unblock2_l1">
+                <div class = "unblock2_elm">
+                    <div class = "unblock2_png"><img src = "img/competency-1.svg"></div>
+                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                </div>
+                <div class = "unblock2_elm">
+                    <div class = "unblock2_png"><img src = "img/competency-2.svg"></div>
+                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                </div>
+                <div class = "unblock2_elm">
+                    <div class = "unblock2_png"><img src = "img/competency-3.svg"></div>
+                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                </div>
+                <div class = "unblock2_elm">
+                    <div class = "unblock2_png"><img src = "img/competency-4.svg"></div>
+                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                </div>
+                </div>
+                <div class = "unblock2_l2">
+                <div class = "unblock2_elm">
+                    <div class = "unblock2_png"><img src = "img/competency-5.svg"></div>
+                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                </div>
+                <div class = "unblock2_elm">
+                    <div class = "unblock2_png"><img src = "img/competency-6.svg"></div>
+                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                </div>
+                <div class = "unblock2_elm">
+                    <div class = "unblock2_png"><img src = "img/competency-7.svg"></div>
+                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                </div>
+                <div class = "unblock2_elm">
+                    <div class = "unblock2_png"><img src = "img/competency-8.svg"></div>
+                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                </div>
+                </div>
             </div>
         </div>
     </div>
