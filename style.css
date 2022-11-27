@@ -188,19 +188,19 @@
     margin-top: 10%;
     margin-left: 15%;
     margin-right: 15%;
-    justify-content: center;
     flex-direction: column;
+    justify-content: center;
 }
 .block3_h{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
 }
 .unblock3{
     display: flex;
     flex-direction: column;
-    margin-right: 15%;
-    margin-left: 15%;
 }
 .unblock3_l1{
     display: flex;
@@ -213,7 +213,13 @@
 .unblock3_elm{
     display:flex;
     flex-direction: column;
-    width: 150px;
+    width: 200px;
+    padding: 1%;
     margin-right: 2%;
 
+}
+.img3{
+    width: 60px;
+    height: 60px;
+    float: right;
 }
