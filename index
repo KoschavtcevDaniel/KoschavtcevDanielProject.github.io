@@ -121,8 +121,10 @@
                 </div>
             </div>
         <div class = "block3">
-            <div class = "header_t" style = "display: flex; justify-content: center;"> Поддержка от Drupal-coder </div>
-            
+            <div class = "block3_h">
+            <div class = "header_t" style = "margin-left: 5%;" > Поддержка </div>
+            <div class = "header_t" > от Drupal-coder </div>
+        </div>    
            
         </div>
 
