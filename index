@@ -123,8 +123,8 @@
 
         <div class = "block3">
             <div class = "block3_h">
-                <div style = "font-family: 'Montserrat', sans-serif; font-size: 30px; font-weight:900; color: rgb(18, 4, 51); margin-left: 5%;" > Поддержка </div>
-                <div style = "font-family: 'Montserrat', sans-serif; font-size: 30px; font-weight:900; color: rgb(18, 4, 51);" > от Drupal-coder </div>
+                <div style = "font-family: 'Montserrat', sans-serif; font-size: 30px; font-weight:900; color: rgb(18, 4, 51); margin-right: 10%;" > Поддержка </div>
+                <div style = "font-family: 'Montserrat', sans-serif; font-size: 30px; font-weight:900; color: rgb(18, 4, 51); margin-right: 10%;" > от Drupal-coder </div>
             </div>  
 
             <div class = "unblock3">
