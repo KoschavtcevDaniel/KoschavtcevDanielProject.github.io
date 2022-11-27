@@ -194,7 +194,6 @@
 .block3_h{
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     margin-bottom: 5%;
 }
@@ -215,8 +214,8 @@
     flex-direction: column;
     width: 200px;
     padding: 1%;
-    margin-right: 2%;
-
+    margin-right: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
 }
 .img3{
     width: 60px;
