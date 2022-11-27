@@ -12,16 +12,16 @@
   }
   
   .href_l{
+
       margin-top: 2.3%;
       margin-right: 0;
   }
   .href{
       font-family: 'Montserrat', sans-serif;
-      font-size: 16px;
+      font-size: 14px;
       color: white;
       text-decoration: none;
       padding: 1%;
-      padding-left: 1%;
   }
   .href:hover{
     text-decoration: underline 2px solid orangered;
@@ -32,7 +32,7 @@
       height: 17%;
       padding-top: 1%;
       margin-top: 1%;
-      margin-right: 5%;
+      margin-right: 2%;
       float: left;
   }
   .tarif{
@@ -49,13 +49,13 @@
       border-radius: 4%;
   }
   .unheader_l{
-      padding-right:10%;
+      padding-right:4%;
       margin-top: 5%;
   }
   .unheader_r{
-     padding-right: 8%;
+      padding-right: 3%;
       margin-top: 5%;
-      margin-left: 2%;
+      margin-left: 4%;
   }
   .table{
       color:white;
@@ -65,7 +65,8 @@
   .tab_d{
        border-left: 3px solid orangered;
        padding: 1%;
-       padding-right:2%;
+       padding-right:5%;
+       padding-left: 2%;
        width: auto;
   }
   .tab_dn{
@@ -74,7 +75,7 @@
   }
   .tab_ho{
       margin-top:-30px;
-      font-size: 50px;
+      font-size: 45px;
       font-weight: 600;
   }
   .tab_h{
@@ -153,7 +154,7 @@
       font-family: 'Montserrat: ital', sans-serif;
       font-size: 16px;
       font-weight: 500;
-      color: grey;
+      color: rgb(65, 65, 65);
   }
   .unblock2{
     display: flex;
@@ -164,14 +165,26 @@
   .unblock2_l1{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
   }
   .unblock2_l2{
     display: flex;
     flex-direction: row;
-
+    justify-content: space-between;
   }
   .unblock2_elm{
-    padding-right:10%;
-    margin-bottom: 3% ;
-
+    font-family: 'Montserrat: ital', sans-serif;
+    width: 140px;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(65, 65, 65);
+    margin-bottom: 5% ;
   }
+  .unblock2_png{
+    margin-bottom: 5%;
+  }
+  .block3{
+    display: flex;
+    width: min-content;
+    margin-top: 10%;
+}
