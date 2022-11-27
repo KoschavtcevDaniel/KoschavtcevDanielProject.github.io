@@ -185,6 +185,14 @@
   }
   .block3{
     display: flex;
-    width: min-content;
     margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 10%;
+    justify-content: center;
+    
+}
+.block3_h{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
