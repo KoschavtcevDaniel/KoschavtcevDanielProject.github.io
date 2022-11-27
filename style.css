@@ -214,12 +214,17 @@
     display:flex;
     flex-direction: column;
     width: 200px;
-    padding: 1%;
+    height: 240px;
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
     margin-right: 5px;
     box-shadow: 0 4px 4px rgba(0, 0, 0, .2);
+   
 }
 .img3{
-    width: 60px;
-    height: 60px;
-    float: right;
+    width: 70px;
+    height: 70px;
+    margin-left: 150px;
+
 }
