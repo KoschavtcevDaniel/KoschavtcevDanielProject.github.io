@@ -123,8 +123,8 @@
 
         <div class = "block3">
             <div class = "block3_h">
-                <div class = "header_t" style = "margin-left: 5%;" > Поддержка </div>
-                <div class = "header_t" > от Drupal-coder </div>
+                <div style = "font-family: 'Montserrat', sans-serif; font-size: 30px; font-weight:900; color: rgb(18, 4, 51); margin-left: 5%;" > Поддержка </div>
+                <div style = "font-family: 'Montserrat', sans-serif; font-size: 30px; font-weight:900; color: rgb(18, 4, 51);" > от Drupal-coder </div>
             </div>  
 
             <div class = "unblock3">
@@ -136,49 +136,49 @@
                         <img class = "img3" src = "img/support1.svg">
                     </div>
                     <div class = unblock3_elm>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
-                        <img class = "img3" src = "img/support1.svg">
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">02.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Сиистема Healpdesk - отчётность, прозрачность</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Возможность посмотреть все заявки в работе и отработанные часы в личном кабинете через браузер.</div>
+                        <img class = "img3" src = "img/support2.svg">
                     </div>
                     <div class = unblock3_elm>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
-                        <img class = "img3" src = "img/support1.svg">
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">03.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Расширенная техническая поддержка</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Возможность организации расширенной техподдержки с 6:00 до 22:00 без выходных.</div>
+                        <img class = "img3" src = "img/support3.svg">
                     </div>
                     <div class = unblock3_elm>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
-                        <img class = "img3" src = "img/support1.svg">
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">04.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Персональный менеджер проекта</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Ваш менеджер проекта всегда в курсе текущего состояния проекта и в любой момент готов ответить на любые вопросы.</div>
+                        <img class = "img3" src = "img/support4.svg">
                     </div>
                 </div>
                 
                 <div class = "unblock3_l2">
                     <div class = unblock3_elm>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
-                        <img class = "img3" src = "img/support1.svg">
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">05.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Удобные способы оплаты</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Безналичный расчёт по договору или электронные деньги: WebMoney, Яндекс.Деньги, Paypal.</div>
+                        <img class = "img3" src = "img/support5.svg">
                     </div>
                     <div class = unblock3_elm>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
-                        <img class = "img3" src = "img/support1.svg">
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">06.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Работаем с SLA и NDA</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Работа в рамках соглашений о конфидециальности и об уровне качества работ.</div>
+                        <img class = "img3" src = "img/support6.svg">
                     </div>
                     <div class = unblock3_elm>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
-                        <img class = "img3" src = "img/support1.svg">
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">07.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Штатные специалисты</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Надежные штатные специалисты, никаких фрилансеров.</div>
+                        <img class = "img3" src = "img/support7.svg">
                     </div>
                     <div class = unblock3_elm>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
-                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
-                        <img class = "img3" src = "img/support1.svg">
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">08.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Удобные каналы связи</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Консультации по телефону, скайпу, в месенджерах.</div>
+                        <img class = "img3" src = "img/support8.svg">
                     </div>
                 </div>
             </div>
