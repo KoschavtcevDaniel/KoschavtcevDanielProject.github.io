@@ -120,12 +120,68 @@
                 </div>
                 </div>
             </div>
+
         <div class = "block3">
             <div class = "block3_h">
-            <div class = "header_t" style = "margin-left: 5%;" > Поддержка </div>
-            <div class = "header_t" > от Drupal-coder </div>
-        </div>    
-           
+                <div class = "header_t" style = "margin-left: 5%;" > Поддержка </div>
+                <div class = "header_t" > от Drupal-coder </div>
+            </div>  
+
+            <div class = "unblock3">
+                <div class = "unblock3_l1">
+                    <div class = unblock3_elm>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
+                        <img class = "img3" src = "img/support1.svg">
+                    </div>
+                    <div class = unblock3_elm>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
+                        <img class = "img3" src = "img/support1.svg">
+                    </div>
+                    <div class = unblock3_elm>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
+                        <img class = "img3" src = "img/support1.svg">
+                    </div>
+                    <div class = unblock3_elm>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
+                        <img class = "img3" src = "img/support1.svg">
+                    </div>
+                </div>
+                
+                <div class = "unblock3_l2">
+                    <div class = unblock3_elm>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
+                        <img class = "img3" src = "img/support1.svg">
+                    </div>
+                    <div class = unblock3_elm>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
+                        <img class = "img3" src = "img/support1.svg">
+                    </div>
+                    <div class = unblock3_elm>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
+                        <img class = "img3" src = "img/support1.svg">
+                    </div>
+                    <div class = unblock3_elm>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">01.</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51);">Постановка задачи по Email</div>
+                        <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
+                        <img class = "img3" src = "img/support1.svg">
+                    </div>
+                </div>
+            </div>
         </div>
 
 
