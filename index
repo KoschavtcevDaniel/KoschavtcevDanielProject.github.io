@@ -9,7 +9,6 @@
     </style>
 </head>
 <body id = "body">
-<div class = body>
     <div class = "back" >
         <img class = "bg_video" src = "https://catherineasquithgallery.com/uploads/posts/2021-02/1614273029_49-p-chernii-fon-aktualnogo-52.jpg">
             <video autoplay loop muted class="bgvideo" style = "background-color: black;" id="bgvideo">
@@ -79,10 +78,10 @@
     </div>
 	</div>
     <div class = "list">
-            <div class = "block2">
+        <div class = "block2">
             <div class = "header_t">13 лет совершенствуем компетенции в Друпал поддержке!</div>
             <div class = "text">Разрабатываем и оптимизируем модули, расширяем функциональность сайтов, обновляем дизайн</div>
-            </div>
+        </div>
             <div class = "unblock2">
                 <div class = "unblock2_l1">
                 <div class = "unblock2_elm">
@@ -91,37 +90,45 @@
                 </div>
                 <div class = "unblock2_elm">
                     <div class = "unblock2_png"><img src = "img/competency-2.svg"></div>
-                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                    <div class = "unblock2_txt">Разработка и оптимизация модулей сайта</div>
                 </div>
                 <div class = "unblock2_elm">
                     <div class = "unblock2_png"><img src = "img/competency-3.svg"></div>
-                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                    <div class = "unblock2_txt">Интеграция с CRM, 1С, платёжными системами, любыми веб-сервисами</div>
                 </div>
                 <div class = "unblock2_elm">
                     <div class = "unblock2_png"><img src = "img/competency-4.svg"></div>
-                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                    <div class = "unblock2_txt">Любые доработки функционала и дизайна</div>
                 </div>
                 </div>
                 <div class = "unblock2_l2">
                 <div class = "unblock2_elm">
                     <div class = "unblock2_png"><img src = "img/competency-5.svg"></div>
-                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                    <div class = "unblock2_txt">Аудит и мониторинг безопасности Drupal сайтов</div>
                 </div>
                 <div class = "unblock2_elm">
                     <div class = "unblock2_png"><img src = "img/competency-6.svg"></div>
-                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                    <div class = "unblock2_txt">Миграция, импорт контента и апгрейд Drupal</div>
                 </div>
                 <div class = "unblock2_elm">
                     <div class = "unblock2_png"><img src = "img/competency-7.svg"></div>
-                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                    <div class = "unblock2_txt">Оптимизация и ускорение Drupal-сайтов</div>
                 </div>
                 <div class = "unblock2_elm">
                     <div class = "unblock2_png"><img src = "img/competency-8.svg"></div>
-                    <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
+                    <div class = "unblock2_txt">Веб-маркетинг, консультации и работы по SEO</div>
                 </div>
                 </div>
             </div>
+        <div class = "block3">
+            <div class = "header_t" style = "display: flex; justify-content: center;"> Поддержка от Drupal-coder </div>
+            
+           
         </div>
+
+
+
+
     </div>
 </body>
 </html>
