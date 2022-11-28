@@ -185,18 +185,57 @@
                 <div style ="padding-bottom: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 600; font-size: 30px;color:white;">Экспертиза в Drupal, опыт 14 лет!</div>
                     <div class = "bl4_t">
                         <div class = "bl4_1">
-                            <div style ="border-left:2px bold orangered ; padding-bottom: 5%; padding-right: 5%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Только системный подход - контроль версий, резервирование и тестирование!</div>
-                            <div style ="border-left:2px bold orangered ;padding-bottom: 5%; padding-right: 5%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Только Drupal сайты, не берём на поддержку сайты на других CMS!</div>
+                            <div style ="border-left:2px solid orangered ; padding-bottom: 5%; padding-right: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Только системный подход - контроль версий, резервирование и тестирование!</div>
+                            <div style ="border-left:2px solid orangered ;padding-bottom: 5%; padding-right: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Только Drupal сайты, не берём на поддержку сайты на других CMS!</div>
                         </div>
                         <div class = "bl4_2">
-                            <div style ="border-left:2px bold orangered ;padding-bottom: 5%; padding-right: 5%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Учавствуем в разработке ядра Drupal и модулей на Drupal.org, разрабатываем свои модули Drupal</div>
-                            <div style ="border-left:2px bold orangered ; padding-bottom: 5%; padding-right: 5%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Поддерживаем сайты на Drupal 5, 6, 7 и 8</div>
+                            <div style ="border-left:2px solid orangered ;padding-bottom: 5%; padding-right: 20%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Учавствуем в разработке ядра Drupal и модулей на Drupal.org, разрабатываем свои модули Drupal</div>
+                            <div style ="border-left:2px solid orangered ; padding-bottom: 5%; padding-right: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Поддерживаем сайты на Drupal 5, 6, 7 и 8</div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
+        <div class = "block5">
+            <div class = "bl5_c">
+                <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; font-size: 30px;color:black; margin-left: 50%; margin-bottom: 5%;">Тарифы</div>
+                <div class = "bl5_2">
+                    <div class = "bl5_elem">
+                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; margin-bottom: 5%;">Стартовый</h>
+                        <div style = "display: flex; flex-direction: column;">
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Консультации и работы по SEO</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Услуги дизайнера</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Неиспользованные часы переносятся на следующий месяц</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Предоплата от 6 000 рублей в месяц</div>
+                        </div>
+                        <div style = "display: block; border: 2px orangered; margin-bottom: 5%;">СВЯЖИТЕСЬ С НАМИ!</div>
+                    </div>
+                    <div class = "bl5_elem">
+                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; margin-bottom: 5%;">Бизнес</h>
+                        <div style = "display: flex; flex-direction: column;">
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Консультации и работы по SEO</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;" >Услуги дизайнера</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Высокое время реакции - до 2 рабочих дней</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Неиспользованные оплаченные часы не переносятся</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Предоплата от 30 000 рублей в месяц</div>
+                        </div> 
+                        <div style = "display: block; border: 2px orangered; margin-bottom: 5%;">СВЯЖИТЕСЬ С НАМИ!</div>
+                   </div>
+                    <div class = "bl5_elem">
+                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; margin-bottom: 5%;">VIP</h>
+                        <div style = "display: flex; flex-direction: column;">
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Консультации и работы по SEO</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Услуги дизайнера</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Максимальное время реакции - в день обращения</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Неиспользованные оплаченные часы не переносятся</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Предоплата от 270 000 рублей в месяц</div>
+                        </div>
+                        <div style = "display: block; border: 2px orangered; margin-bottom: 5%;">СВЯЖИТЕСЬ С НАМИ!</div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
     </div>
