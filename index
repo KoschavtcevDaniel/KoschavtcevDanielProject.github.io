@@ -178,7 +178,23 @@
             </div>
         </div>
         <div class = "block4">
-
+            <div class = "inblock4_1">
+                <img class = "img4" src = "img/laptop.png" left bottom no-repeat>
+            </div> 
+            <div class = "inblock4_2">
+                <div style ="padding-bottom: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 600; font-size: 30px;color:white;">Экспертиза в Drupal, опыт 14 лет!</div>
+                    <div class = "bl4_t">
+                        <div class = "bl4_1">
+                            <div style ="border-left:2px bold orangered ; padding-bottom: 5%; padding-right: 5%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Только системный подход - контроль версий, резервирование и тестирование!</div>
+                            <div style ="border-left:2px bold orangered ;padding-bottom: 5%; padding-right: 5%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Только Drupal сайты, не берём на поддержку сайты на других CMS!</div>
+                        </div>
+                        <div class = "bl4_2">
+                            <div style ="border-left:2px bold orangered ;padding-bottom: 5%; padding-right: 5%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Учавствуем в разработке ядра Drupal и модулей на Drupal.org, разрабатываем свои модули Drupal</div>
+                            <div style ="border-left:2px bold orangered ; padding-bottom: 5%; padding-right: 5%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Поддерживаем сайты на Drupal 5, 6, 7 и 8</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
 
