@@ -253,8 +253,30 @@
 .bl4_1{
     display: flex;
     flex-direction: row;
+    padding-right: 5%;
 }
 .bl4_2{
     display: flex;
     flex-direction: row;
+    padding-right: 5%;
+}
+.block5{
+    display: flex;
+    background: white;
+}
+.bl5_c{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+}
+.bl5_2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.bl5_elem{
+    display: block;
+    margin-right: 10%;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .2);
 }
