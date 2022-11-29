@@ -129,24 +129,24 @@
 
             <div class = "unblock3">
                 <div class = "unblock3_l1">
-                    <div class = unblock3_elm style = " background: url(img/support1.svg) right bottom no-repeat;">
+                    <div class = unblock3_elm style = " background: url(img/support1.svg) right bottom no-repeat;background-color: white;">
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65); margin-bottom: 5%;">01.</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51); margin-bottom: 5%;">Постановка задачи по Email</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Удобная и привычная модель постановки задач, при которой задачи фиксируются и никогда не теряются.</div>
                     </div>
-                    <div class = unblock3_elm style = " background: url(img/support2.svg) right bottom no-repeat;">
+                    <div class = unblock3_elm style = " background: url(img/support2.svg) right bottom no-repeat;background-color: white;">
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65); margin-bottom: 5%;">02.</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51); margin-bottom: 5%;">Сиистема Healpdesk - отчётность, прозрачность</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Возможность посмотреть все заявки в работе и отработанные часы в личном кабинете через браузер.</div>
 
                     </div>
-                    <div class = unblock3_elm style = " background: url(img/support3.svg) right bottom no-repeat;">
+                    <div class = unblock3_elm style = " background: url(img/support3.svg) right bottom no-repeat;background-color: white;">
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65); margin-bottom: 5%;">03.</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51); margin-bottom: 5%;">Расширенная техническая поддержка</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Возможность организации расширенной техподдержки с 6:00 до 22:00 без выходных.</div>
 
                     </div>
-                    <div class = unblock3_elm style = " background: url(img/support4.svg) right bottom no-repeat;">
+                    <div class = unblock3_elm style = " background: url(img/support4.svg) right bottom no-repeat;background-color: white;">
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65); margin-bottom: 5%;">04.</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51); margin-bottom: 5%;">Персональный менеджер проекта</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Ваш менеджер проекта всегда в курсе текущего состояния проекта и в любой момент готов ответить на любые вопросы.</div>
@@ -154,22 +154,22 @@
                 </div>
                 
                 <div class = "unblock3_l2">
-                    <div class = unblock3_elm style = " background: url(img/support5.svg) right bottom no-repeat;">
+                    <div class = unblock3_elm style = " background: url(img/support5.svg) right bottom no-repeat; background-color: white;">
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65); margin-bottom: 5%;">05.</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51); margin-bottom: 5%;">Удобные способы оплаты</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Безналичный расчёт по договору или электронные деньги: WebMoney, Яндекс.Деньги, Paypal.</div>
                     </div>
-                    <div class = unblock3_elm style = " background: url(img/support6.svg) right bottom no-repeat;">
+                    <div class = unblock3_elm style = " background: url(img/support6.svg) right bottom no-repeat; background-color: white;">
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65); margin-bottom: 5%;">06.</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51); margin-bottom: 5%;">Работаем с SLA и NDA</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Работа в рамках соглашений о конфидециальности и об уровне качества работ.</div>
                     </div>
-                    <div class = unblock3_elm style = " background: url(img/support7.svg) right bottom no-repeat;">
+                    <div class = unblock3_elm style = " background: url(img/support7.svg) right bottom no-repeat; background-color: white;">
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65); margin-bottom: 5%;">07.</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51); margin-bottom: 5%;">Штатные специалисты</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Надежные штатные специалисты, никаких фрилансеров.</div>
                     </div>
-                    <div class = unblock3_elm style = " background: url(img/support8.svg) right bottom no-repeat;">
+                    <div class = unblock3_elm style = " background: url(img/support8.svg) right bottom no-repeat; background-color: white;">
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65); margin-bottom: 5%;">08.</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; color: rgb(18, 4, 51); margin-bottom: 5%;">Удобные каналы связи</div>
                         <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; color: rgb(65, 65, 65);">Консультации по телефону, скайпу, в месенджерах.</div>
@@ -182,20 +182,19 @@
                 <img class = "img4" src = "img/laptop.png" left bottom no-repeat>
             </div> 
             <div class = "inblock4_2">
-                <div style ="padding-bottom: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 600; font-size: 30px;color:white;">Экспертиза в Drupal, опыт 14 лет!</div>
+                <div style ="padding-bottom: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 600; font-size: 35px;color:white; padding-right: 20%;">Экспертиза в Drupal, опыт 14 лет!</div>
                     <div class = "bl4_t">
                         <div class = "bl4_1">
-                            <div style ="border-left:2px solid orangered ; padding-bottom: 5%; padding-right: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Только системный подход - контроль версий, резервирование и тестирование!</div>
-                            <div style ="border-left:2px solid orangered ;padding-bottom: 5%; padding-right: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Только Drupal сайты, не берём на поддержку сайты на других CMS!</div>
+                            <div style ="border-left:2px solid orangered ; margin-bottom: 5%; padding-right: 5%; padding-left: 2%; width: 270px;font-family: 'Montserrat: ital', sans-serif; font-weight: 200; font-size: 16px; color:white;">Только системный подход - контроль версий, резервирование и тестирование!</div>
+                            <div style ="border-left:2px solid orangered ;margin-bottom: 5%; padding-right: 5%; padding-left: 2%; width: 270px; font-family: 'Montserrat: ital', sans-serif; font-weight: 200; font-size: 16px; color:white;">Только Drupal сайты, не берём на поддержку сайты на других CMS!</div>
                         </div>
                         <div class = "bl4_2">
-                            <div style ="border-left:2px solid orangered ;padding-bottom: 5%; padding-right: 20%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Учавствуем в разработке ядра Drupal и модулей на Drupal.org, разрабатываем свои модули Drupal</div>
-                            <div style ="border-left:2px solid orangered ; padding-bottom: 5%; padding-right: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px; color:white;">Поддерживаем сайты на Drupal 5, 6, 7 и 8</div>
+                            <div style ="border-left:2px solid orangered ;margin-bottom: 5%; padding-right: 5%; padding-left: 2%; width: 270px; font-family: 'Montserrat: ital', sans-serif; font-weight: 200; font-size: 16px; color:white;">Учавствуем в разработке ядра Drupal и модулей на Drupal.org, разрабатываем свои модули Drupal</div>
+                            <div style ="border-left:2px solid orangered ; margin-bottom: 5%; padding-right: 5%; padding-left: 2%; width: 270px; font-family: 'Montserrat: ital', sans-serif; font-weight: 200; font-size: 16px; color:white;">Поддерживаем сайты на Drupal 5, 6, 7 и 8</div>
                         </div>
                     </div>
-                </div>
             </div>
-        </div>
+         </div>
 
         <div class = "block5">
             <div class = "bl5_c">
@@ -236,7 +235,6 @@
                 </div>
             </div>
         </div>
-
 
     </div>
 </body>
