@@ -32,9 +32,9 @@
         <div class = "unheader_l">
             <div class="punheader">Поддержка сайтов на Drupal</div>
             <div class = "p_unheader"><div>Сопровождение и поддержка сайтов</div><div>на CMS Drupal любых версий и запущенности</div></div>
-         <div class = "tarif">
+         <a href = "/" style = "color: white; text-decoration: none;"><div class = "tarif">
                 ТАРИФЫ
-         </div>
+         </div></a>
         </div>
         <div class = "unheader_r">
             <table class = "table">
@@ -85,7 +85,7 @@
             <div class = "unblock2">
                 <div class = "unblock2_l1">
                 <div class = "unblock2_elm">
-                    <div class = "unblock2_png"><img src = "img/competency-1.svg"></div>
+                    <div class = "unblock2_png"><img src = "img/drupal-coder.svg" style = "opacity: 0.4; z-index: -1; margin-bottom: -5px; bottom: 0;"><img src = "img/competency-1.svg"></div>
                     <div class = "unblock2_txt">Добавление информации на сайт, создание новых разделов</div>
                 </div>
                 <div class = "unblock2_elm">
@@ -179,7 +179,7 @@
         </div>
         <div class = "block4">
             <div class = "inblock4_1">
-                <img class = "img4" src = "img/laptop.png" left bottom no-repeat>
+                <img class = "img4" src = "img/laptop.png" >
             </div> 
             <div class = "inblock4_2">
                 <div style ="padding-bottom: 10%; font-family: 'Montserrat: ital', sans-serif; font-weight: 600; font-size: 35px;color:white; padding-right: 20%;">Экспертиза в Drupal, опыт 14 лет!</div>
@@ -197,40 +197,47 @@
          </div>
 
         <div class = "block5">
+            <img class = "bl5_im" src = "">
             <div class = "bl5_c">
-                <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 600; font-size: 30px;color:black; margin-left: 50%; margin-bottom: 5%;">Тарифы</div>
+                <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 700; font-size: 30px;color:black; margin-left: 56%; margin-bottom: 3%;">Тарифы</div>
                 <div class = "bl5_2">
                     <div class = "bl5_elem">
-                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; margin-bottom: 5%;">Стартовый</h>
+                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; font-weight: 700; font-size: 20px; padding-bottom: 10px; margin-bottom: 15px; border-bottom: 2px solid rgba(124, 124, 124, 0.3)">Стартовый</h>
                         <div style = "display: flex; flex-direction: column;">
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Консультации и работы по SEO</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Услуги дизайнера</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Неиспользованные часы переносятся на следующий месяц</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Предоплата от 6 000 рублей в месяц</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;  padding-top: 15px; margin-bottom:10px;">Консультации и работы по SEO</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;  padding-top: 15px; margin-bottom: 10px;">Услуги дизайнера</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;  padding-top: 15px; margin-bottom: 10px;">Неиспользованные часы переносятся на следующий месяц</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black; padding-top: 15px; margin-bottom: 10px;">Предоплата от 6 000 рублей в месяц</div>
                         </div>
-                        <div style = "display: block; border: 2px orangered; margin-bottom: 5%;">СВЯЖИТЕСЬ С НАМИ!</div>
+                         <a class = "bl5_hr" href = "/" style = "margin-top: 50px;"><div class = "bl5_hrb">
+                           СВЯЖИТЕСЬ С НАМИ!
+                        </div></a>
                     </div>
                     <div class = "bl5_elem">
-                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; margin-bottom: 5%;">Бизнес</h>
-                        <div style = "display: flex; flex-direction: column;">
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Консультации и работы по SEO</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;" >Услуги дизайнера</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Высокое время реакции - до 2 рабочих дней</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Неиспользованные оплаченные часы не переносятся</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Предоплата от 30 000 рублей в месяц</div>
+                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; font-weight: 700; font-size: 20px; padding-bottom: 10px; margin-bottom: 15px; border-bottom: 2px solid rgba(124, 124, 124, 0.3)">Бизнес</h>
+                        <div style = "display: flex; flex-direction: column; margin-top: 5%;">
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black; padding-top: 15px; margin-bottom: 10px;">Консультации и работы по SEO</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black; padding-top: 15px; margin-bottom: 10px;" >Услуги дизайнера</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black; padding-top: 15px; margin-bottom: 10px;">Высокое время реакции - до 2 рабочих дней</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black; padding-top: 15px; margin-bottom: 10px;">Неиспользованные оплаченные часы не переносятся</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black; padding-top: 15px; margin-bottom: 10px;">Предоплата от 30 000 рублей в месяц</div>
                         </div> 
-                        <div style = "display: block; border: 2px orangered; margin-bottom: 5%;">СВЯЖИТЕСЬ С НАМИ!</div>
+                        <a class = "bl5_hr" href = "/" style = "margin-top: 50px;"><div class = "bl5_hrb">
+                            СВЯЖИТЕСЬ С НАМИ!
+                        </div></a>
                    </div>
                     <div class = "bl5_elem">
-                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; margin-bottom: 5%;">VIP</h>
+                        <h style = "font-family: 'Montserrat: ital', sans-serif; color:orangered; font-weight: 700; font-size: 20px; padding-bottom: 10px; margin-bottom: 15px; border-bottom: 2px solid rgba(124, 124, 124, 0.3)">VIP</h>
                         <div style = "display: flex; flex-direction: column;">
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Консультации и работы по SEO</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Услуги дизайнера</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Максимальное время реакции - в день обращения</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Неиспользованные оплаченные часы не переносятся</div>
-                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;">Предоплата от 270 000 рублей в месяц</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;  padding-top: 15px; margin-bottom: 10px;">Консультации и работы по SEO</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;  padding-top: 15px; margin-bottom: 10px;">Услуги дизайнера</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;  padding-top: 15px; margin-bottom: 10px;">Максимальное время реакции - в день обращения</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;  padding-top: 15px; margin-bottom: 10px;">Неиспользованные оплаченные часы не переносятся</div>
+                            <div style = "font-family: 'Montserrat: ital', sans-serif; font-weight: 500; font-size: 16px;color:black;  padding-top: 15px; margin-bottom: 10px;">Предоплата от 270 000 рублей в месяц</div>
                         </div>
-                        <div style = "display: block; border: 2px orangered; margin-bottom: 5%;">СВЯЖИТЕСЬ С НАМИ!</div>
+                        <a class = "bl5_hr" href = "/" style = "margin-top: 50px;"><div class = "bl5_hrb">
+                           СВЯЖИТЕСЬ С НАМИ!
+                        </div></a>
                     </div>
                 </div>
             </div>
