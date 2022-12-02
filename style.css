@@ -46,7 +46,10 @@
       width: 200px;
       height: 50px;
       border: 2px solid orangered;
-      border-radius: 4%;
+      border-radius: 10px;
+  }
+  .tarif:hover{
+    background-color: orangered;
   }
   .unheader_l{
       padding-right:4%;
@@ -218,34 +221,37 @@
     display:flex;
     flex-direction: column;
     width: 180px;
-    height: 240px;
+    height: 260px;
     padding-top: 2%;
     padding-left: 3%;
     padding-right: 3%;
     margin-right: 5px;
     margin-top: 2%;
-    box-shadow: 0 4px 4px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
    
 }
 .block4{
     display: flex;
     background: rgb(3, 9, 34);
     opacity: 1;
+    height: 800px;
     margin-top: -10%;
     flex-direction: row;
     position:relative;
 }
 .img4{
-    
-    margin-top: 50%;
-    width: 75%;
-    height: 65%;
+    height: 105%;
     left:0;
     bottom:0;
+    margin-top: 9%;
 }
 .inblock4_2{
     margin-top: 20%;
-    margin-right: 30%;
+    margin-right: 20%;
+}
+.inblock4_1{
+    margin-top: 20%;
+    margin-right: 15%;
 }
 .bl4_t{
     display: flex;
@@ -265,19 +271,53 @@
     display: flex;
     background: white;
 }
+.bl5_im{
+    opacity: 0.5;
+    z-index: -1;
+    top:0;
+    right: 0;
+    height: 100%;
+}
 .bl5_c{
     display: flex;
     flex-direction: column;
     margin-top: 10%;
+    justify-content: center;
 }
 .bl5_2{
     display: flex;
     flex-direction: row;
-    margin-left: 15%;
-    margin-right: 15%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
 }
 .bl5_elem{
-    display: block;
-    margin-right: 10%;
-    box-shadow: 0 5px 5px rgba(0, 0, 0, .2);
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+    padding: 3%;
+    height: 90%;
+    margin-right: 1%;
+    margin-top: 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
 }
+.bl5_elem:hover{
+    height: 105%;
+}
+.bl5_hr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orangered;
+    text-decoration: none;
+    border: 2px solid orangered; 
+    width: 100%;
+    height: 10%;
+    border-radius: 10px;
+}
+.bl5_hr:hover{
+    background-color: orangered;
+    color:white;
+}
+
+
