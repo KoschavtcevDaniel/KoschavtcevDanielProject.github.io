@@ -128,9 +128,16 @@ a {
       margin-left: 4%;
   }
   .table{
+      display: flex;
+      flex-direction: column;
       color:white;
       width:auto;
       padding-top: 2%;
+  }
+  .tab_r{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 70px;
   }
   .tab_d{
        border-left: 3px solid orangered;
