@@ -453,3 +453,130 @@ a {
     color: rgb(101, 101, 101);
     width: 180px;
 }
+.block7{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.bl7_h{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight:900;
+    color: rgb(18, 4, 51);
+    width: 800px;
+    margin-left: 39%;
+}
+.bl7_l1{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.bl7_l2{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+}
+.bl7_elm{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    padding-right: 5%;
+    margin-right: 5%;
+}
+.bl7_eh{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight:700;
+    color: rgb(18, 4, 51);
+    width: 200px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.bl7_et{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight:500;
+    color: rgb(101, 101, 101);
+    width: 250px;
+}
+.bl7_end{
+    margin-left: 35%;
+    border: 2px solid gray;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 6%;
+}
+.bl7_end:hover{
+    background-color: orangered;
+    color: white;
+    border: 2px solid white;
+}
+.end_hr{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight:500;
+    color: rgb(101, 101, 101);
+    text-decoration: none;
+}
+.block8{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.bl8_h{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight:900;
+    color: rgb(18, 4, 51);
+    width: 800px;
+    margin-left: 32%;
+}
+.block9{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.bl9_h{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight:900;
+    color: rgb(18, 4, 51);
+    width: 800px;
+    margin-left: 39%;
+}
+.block10{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.bl10_h{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight:900;
+    color: rgb(18, 4, 51);
+    width: 800px;
+    margin-left: 33%;
+    margin-bottom: 10px;
+}
+.bl10_t{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight:500;
+    color: rgb(101, 101, 101);
+    width: 650px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 16%;
+}
+
