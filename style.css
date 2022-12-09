@@ -425,14 +425,15 @@ a {
     display: flex;
     flex-direction: column;
     margin-top: 10%;
-    margin-left: 15%;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 .bl6_h{
     font-family: 'Montserrat', sans-serif;
-    font-size: 30px;
-    font-weight:900;
+    font-size: 40px;
+    font-weight:800;
     color: rgb(18, 4, 51);
-    width: 800px;
+    width: 940px;
 }
 .bl6_bl{
     display: flex;
@@ -442,13 +443,13 @@ a {
 .bl6_el{
     display: flex;
     flex-direction: column;
-    margin-right: 10%;
+    margin-right: 200px;
     
 }
 .bl6_eth{
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    font-weight:700;
+    font-size: 25px;
+    font-weight:800;
     color: rgb(18, 4, 51);
     width: 100px;
 }
@@ -463,16 +464,16 @@ a {
     display: flex;
     flex-direction: column;
     margin-top: 10%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 .bl7_h{
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     font-weight:900;
     color: rgb(18, 4, 51);
-    width: 800px;
-    margin-left: 39%;
+    width: 1050px;
+    text-align: center;
 }
 .bl7_l1{
     margin-top: 5%;
@@ -515,6 +516,7 @@ a {
     text-align: center;
     border-radius: 5px;
     margin-top: 6%;
+    margin-left: 410px;
 }
 .bl7_end:hover{
     background-color: orangered;
@@ -532,23 +534,23 @@ a {
     display: flex;
     flex-direction: column;
     margin-top: 5%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 .bl8_h{
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     font-weight:900;
     color: rgb(18, 4, 51);
-    width: 800px;
+    width: 1050px;
     margin-left: 32%;
 }
 .block9{
     display: flex;
     flex-direction: column;
     margin-top: 10%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 .bl9_h{
     font-family: 'Montserrat', sans-serif;
@@ -556,14 +558,14 @@ a {
     font-weight:900;
     color: rgb(18, 4, 51);
     width: 800px;
-    margin-left: 39%;
+    text-align: center;
 }
 .block10{
     display: flex;
     flex-direction: column;
     margin-top: 10%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 .bl10_h{
