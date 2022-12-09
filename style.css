@@ -50,7 +50,7 @@ a {
 .hrefn{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 16px;
     color: white;
     text-decoration: none;
     padding: 3px;
@@ -60,7 +60,7 @@ a {
 }
 .hrefnn{
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     color: white;
     text-decoration: none;
     padding: 3px;
@@ -70,8 +70,8 @@ a {
 }
 
 .header{
-    margin-left:15%;
-    margin-right:15%;
+    margin-left: 300px;
+    margin-right:300px;
 }
   .back{ 
       display: flex;
@@ -85,7 +85,7 @@ a {
   }
   .href{
       font-family: 'Montserrat', sans-serif;
-      font-size: 14px;
+      font-size: 16px;
       color: white;
       text-decoration: none;
   }
@@ -119,13 +119,15 @@ a {
     transition: .5s linear;
   }
   .unheader_l{
-      padding-right:4%;
-      margin-top: 5%;
+      padding-right:10px;
+      margin-right: 20px;
+      margin-top: 50px;
+      width: 480px;
   }
   .unheader_r{
-      padding-right: 3%;
-      margin-top: 5%;
-      margin-left: 4%;
+      margin-top: 70px;
+      margin-left: 70px;
+      width: 560px;
   }
   .table{
       display: flex;
@@ -137,19 +139,17 @@ a {
   .tab_r{
     display: flex;
     flex-direction: row;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
   }
   .tab_d{
        border-left: 3px solid orangered;
        padding: 1%;
-       padding-right:5%;
+       padding-right: 15px;
+       margin-right: 5px;
        padding-left: 2%;
-       width: auto;
+       width: 180px;
   }
-  .tab_dn{
-      margin: 5%;
-      padding: 8%;
-  }
+
   .tab_ho{
       margin-top:-30px;
       font-size: 45px;
@@ -161,14 +161,18 @@ a {
   }
   .tab_u{
       font-size: 14px;
+      font-family: 'Montserrat', sans-serif;
+      color: rgb(181, 181, 182);
+      font-weight: 500;
+
   }
   .unheader{
       font-family: 'Montserrat', sans-serif;
       display: flex;
       flex-direction: row;
-      margin-top: 1%;
-      margin-left:15%;
-      margin-right: 15%;
+      margin-top: 10px;
+      margin-left:300px;
+      margin-right: 300px;
   }
   .punheader{
       font-size: 45px;
@@ -212,17 +216,17 @@ a {
       flex-direction: column;
       padding-right: 2%;
       padding-bottom: 2%;
-      width: min-content;
-      margin-top: 8%;
-      margin-left: 15%;
-      padding-top: 10%;
+      width: 520px;
+      margin-top: 150px;
+      margin-left: 300px;
+      padding-top: 150px;
   }
   .header_t{
       font-family: 'Montserrat', sans-serif;
-      font-size: 30px;
-      font-weight:900;
+      font-size: 40px;
+      font-weight:700;
       color: rgb(18, 4, 51);
-      width: 500px;
+      width: 600px;
   }
   .text{
       margin-top:3%;
@@ -231,13 +235,14 @@ a {
       font-family: 'Montserrat: ital', sans-serif;
       font-size: 16px;
       font-weight: 500;
-      color: rgb(65, 65, 65);
+      color: rgb(100, 102, 130);
+
   }
   .unblock2{
     display: flex;
     flex-direction: column;
-    margin-right: 25%;
-    margin-left: 15%;
+    margin-right: 300px;
+    margin-left: 300px;
   }
   .unblock2_l1{
     display: flex;
@@ -251,11 +256,11 @@ a {
   }
   .unblock2_elm{
     font-family: 'Montserrat: ital', sans-serif;
-    width: 150px;
+    width: 190px;
     padding-right: 5%;
     font-size: 16px;
     font-weight: 500;
-    color: rgb(65, 65, 65);
+    color:  rgb(100, 102, 130);
     margin-bottom: 5% ;
   }
   .unblock2_png{
@@ -264,8 +269,8 @@ a {
   .block3{
     display: flex;
     margin-top: 10%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 300px;
+    margin-right: 300px;
     flex-direction: column;
     justify-content: center;
     z-index: 1;
@@ -274,8 +279,10 @@ a {
 .block3_h{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: center;
+    text-align: center;
     margin-bottom: 5%;
+    width: 1200px;
 }
 .unblock3{
     display: flex;
@@ -294,8 +301,8 @@ a {
 .unblock3_elm{
     display:flex;
     flex-direction: column;
-    width: 180px;
-    height: 260px;
+    width: 280px;
+    height: 280px;
     padding-top: 2%;
     padding-left: 3%;
     padding-right: 3%;
@@ -320,11 +327,11 @@ a {
 }
 .inblock4_2{
     margin-top: 20%;
-    margin-right: 20%;
+   
 }
 .inblock4_1{
     margin-top: 20%;
-    margin-right: 5%;
+    margin-right: 10%;
 }
 .bl4_t{
     display: flex;
@@ -343,8 +350,8 @@ a {
 .block5{
     display: flex;
     background: white;
-    margin-right: 15%;
-    margin-left: 15%;
+    margin-right: 300px;
+    margin-left: 300px;
 }
 .bl5_im{
     opacity: 0.5;
@@ -357,7 +364,7 @@ a {
     display: flex;
     flex-direction: column;
     margin-top: 10%;
-    
+    margin-left: 50px;
     justify-content: center;
     position: relative;
 }
@@ -366,14 +373,14 @@ a {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-right: 15%;
 }
 .bl5_elem{
     display: flex;
     flex-direction: column;
     padding-top: 5%;
     padding: 3%;
-    height: 90%;
+    height: 500px;
+    width: 360px;
     margin-right: 1%;
     margin-top: 5%;
     box-shadow: 0 0 10px rgba(0, 0, 0, .2);
@@ -449,7 +456,7 @@ a {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     font-weight:500;
-    color: rgb(101, 101, 101);
+    color: rgb(100, 102, 130);
     width: 180px;
 }
 .block7{
@@ -497,7 +504,7 @@ a {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     font-weight:500;
-    color: rgb(101, 101, 101);
+    color:  rgb(100, 102, 130);
     width: 250px;
 }
 .bl7_end{
@@ -518,7 +525,7 @@ a {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     font-weight:500;
-    color: rgb(101, 101, 101);
+    color:  rgb(100, 102, 130);
     text-decoration: none;
 }
 .block8{
@@ -572,7 +579,7 @@ a {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     font-weight:500;
-    color: rgb(101, 101, 101);
+    color:  rgb(100, 102, 130);
     width: 650px;
     text-align: center;
     justify-content: center;
