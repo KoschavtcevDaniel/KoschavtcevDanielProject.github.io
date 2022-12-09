@@ -308,16 +308,15 @@ a {
     display: flex;
     background: rgba(3, 5, 23, 0.942);
     opacity: 1;
-    height: 800px;
+    height: 900px;
     margin-top: -10%;
     flex-direction: row;
     position:relative;
 }
 .img4{
-    height: 105%;
     left:0;
     bottom:0;
-    margin-top: 9%;
+    margin-top: -5%;
 }
 .inblock4_2{
     margin-top: 20%;
@@ -325,7 +324,7 @@ a {
 }
 .inblock4_1{
     margin-top: 20%;
-    margin-right: 15%;
+    margin-right: 5%;
 }
 .bl4_t{
     display: flex;
@@ -579,3 +578,4 @@ a {
     justify-content: center;
     margin-left: 16%;
 }
+
