@@ -68,7 +68,9 @@ a {
 #body{
     margin:0px;
 }
-
+.button{
+    display: none;
+}
 .header{
     margin-left: 300px;
     margin-right:300px;
@@ -588,3 +590,110 @@ a {
     margin-left: 16%;
 }
 
+
+
+
+
+
+@media screen and (max-device-width: 960px) {
+    .button {
+        display: block;
+        width: 10px;
+        height: 10px;
+        background-color: black;
+        right: 0;
+        transition: all 1s ease;
+      }
+      
+      .opened {
+        background-color: red;
+        color: black;
+        height: 400px;
+      }
+    .body{
+       width: max-content; 
+    }
+    .bg_video{
+        width: max-content;
+        height: auto;
+    }
+    .bgvideo{
+        width: max-content;
+        height: auto;
+    }
+    .back{
+        width: max-content;
+        height: auto;
+    }
+    .header{
+        margin-left:0;
+        margin-right: 0;
+        bottom: 0;
+        z-index: 10;
+        position: fixed;
+        background-color: black;
+        
+    }
+    .unheader_l{
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+       
+        width: 360px;
+    }
+    .unheader_r{
+        margin-bottom: 10%;
+    }
+    .one{
+        
+    }  
+    .unheader{
+        flex-direction: column;
+         margin-left: 5px;
+        margin-right: 5px;
+    }
+    .table{
+        flex-direction: row;
+    }
+    .tab_r{
+        flex-direction: column;
+    }
+    .tab_d{
+        margin-bottom: 5px;
+    }
+    .list{
+        
+    }
+    .block2{
+        width: 500px;
+        margin: 0;
+    }
+    .block3{
+        width: 500px;
+        margin: 0;
+    }
+    .block4{
+        width: 500px;
+        margin: 0;
+    }
+    .block5_bg{
+        width: 500px;
+        margin: 0;
+    }
+    .block5{
+        width: 500px;
+        margin: 0;
+    }
+    .block6{
+        width: 500px;
+        margin: 0;
+    }
+    .block7{
+        width: 500px;
+        margin: 0;
+    }
+    .block9{
+        width: 500px;
+        margin: 0;
+    }
+}
