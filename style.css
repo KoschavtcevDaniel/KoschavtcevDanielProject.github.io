@@ -315,7 +315,7 @@ a {
 }
 .block4{
     display: flex;
-    background: rgba(3, 5, 23, 0.942);
+    background: linear-gradient(254.72deg,rgba(255,255,255,.276) -114.85%,rgba(255,255,255,0) 69.04%),#040613;
     opacity: 1;
     height: 900px;
     margin-top: -10%;
@@ -595,7 +595,70 @@ a {
     margin-left: 16%;
 }
 
+.footer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(5, 1, 16);
+    color: white;
+    background: linear-gradient(254.72deg,rgba(255,255,255,.276) -114.85%,rgba(255,255,255,0) 69.04%),url(img/D-flying.svg) no-repeat top center,url(img/D-footer.svg) no-repeat bottom right,#040613;
 
+}
+.foot_l{
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+    margin-right: 80px;
+    width: 700px;
+    padding-top: 30px;
+}
+.foot_r {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top: 30px;
+    left: 0;
+    width: 500px;
+    height: 100vh;
+    transition: 0.5s all;
+    margin-right: 300px;
+    
+}
+.l_bl{
+    border: 2px solid rgba(170, 170, 170);
+    display: block;
+    border-radius: 5%;
+    margin-bottom: 10px;
+}
+.form {
+    width: 290px;
+  }
+  .caption {
+    font-size: 24px;
+    text-align: center;
+  }
+  .form .infofield {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  .form select, .form input, .form textarea {
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px 15px;
+  }
+.f_lh{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 34px;
+    font-weight:700;
+    color:  white;
+    padding-top: 20px;
+}
+.f_lt{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight:500;
+    color:  rgb(170, 170, 170);
+    padding-top: 20px;
+}
 
 
 
