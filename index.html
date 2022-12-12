@@ -1,9 +1,12 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Project</title>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <style>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');</style>
     </style>
@@ -464,11 +467,82 @@
             <div class = "bl10_h">С нами работают</div>
             <div class = "bl10_t">Десятки компаний доверяют нам самое ценное, что у них есть в интернете - свои сайты. Мы делаем всё, чтобы наше сотрудничество было долгим.</div>
         </div>
-        <footer>
-            <div>
-                
-            </div>
 
+
+        <footer class = "footer">
+            <div class = "foot_l">
+                <div class = "f_lh">Оставить заявку на поддержку сайта</div>
+                <div class = "f_lt">Срочно нужна поддержка сайта? Ваша команда не успевает справиться самостоятельно или предыдущий порядчик не справился с работой? Тогда вам точно к нам! Просто оставьте заявку и наш менеджер с вами свяжется!</div>
+                <div class = "f_lh" style = "margin-top: 150px;">8 800 222-26-73</div>
+                <div class = "f_lt" style = "color: white;">info@drupal-coder.ru</div>
+            </div>
+            <div class="foot_r"> 
+                <!-- <form class="ajaxForm popup" action="https://formcarry.com/s/MnGhyNqlx8q" method="POST" accept-charset="UTF-8">
+                    <div class = "l_bl">
+                        <label>
+                            <input type="text" name="Name" required="required">
+                            <div class="label__text">
+                                Ваше имя:
+                            </div>
+                        </label>
+                    </div>
+                    <div class = "l_bl">
+                        <label>
+                            <input type="mobile" name="mobile" required="required">
+                            <div class="label__text">
+                                Телефон:
+                            </div>
+                        </label>
+                    </div>
+                    <div class = "l_bl">
+                        <label>
+                        <input type="email" name="email" required="required">
+                        <div class="label__text">
+                            E-mail:
+                        </div>
+                        </label>
+                    </div>
+                    <div class = "l_bl">
+                        <label>
+                            <textarea name="Message"></textarea>
+                            <div class="label__text">
+                                Ваш комментарий:
+                            </div>
+                        </label>
+                    </div>
+                    <label class="custom-checkbox"> 
+                        <input class="hidden-checkbox" type="checkbox">
+                        <div class="checkbox"> 
+                            <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
+                        </div>
+                        Отправляя заявку, я даю согласие на <a class = "href" href = "/">обработку своих персональных данных.*</a>
+                    </label>
+                    
+                    <button type="submit" name="formButton">СВЯЖИТЕСЬ С НАМИ</button>
+                </form>-->
+
+
+                <form class="form" name="feedback" method="POST" action="/feedback.php">
+                    <div class="caption">Обратная связь</div>
+                    <div class="infofield">Тема обращения</div>
+                    <select name="theme" required="required">
+                      <option value="Ваше имя">Выберите вариант</option>
+                      <option value="Ваш email">Вопрос по работе сервиса</option>
+                      <option value="">Помощь в оформлении заказа</option>
+                      <option value="">Сотрудничество</option>
+                      <option value="">Пожелания / предложения</option>
+                    </select>
+                    <div>Ваше имя</div>
+                    <input type="text" name="name" required="required">
+                    <div>Ваш email</div>
+                    <input type="email" name="email" required="required">
+                    <div>Сообщение</div>
+                    <textarea name="message"></textarea>
+                    <input type="submit" name="submit_btn" value="Отправить">
+                  </form>
+            </div>  
+        
+            <script src="script.js"></script>
         </footer>
     </div>
 </body>
