@@ -744,27 +744,28 @@ nav {
           height: 400px;
         }
       .body{
-         width: 300px; 
+         width: 100vw; 
          background-color: #040613;
       }
       .source{
-        width: 300px;
-        height: 600px;
+        width: 100vw;
+        height: 100vh;
       }
       .bg_video{
-          width: 300px;
+          width:100vw;
           height: 600px;
           top: 0;
       }
      .bgvideo{
-        width: 300px;
-        
+        width: 100vw;
+        height: 100vh;
         top: 0;
         position: absolute;
+        background-color: black;
         
      }
       .back{
-          width: 300px;
+          width:100vw;
           height: 800px;
       }
      
@@ -772,7 +773,7 @@ nav {
       .header{
           margin-left:0;
           margin-right: 0;
-          width: 300px;
+          width: 100vw;
           bottom: 0;
           z-index: 10;
           position: fixed;
@@ -787,8 +788,8 @@ nav {
           text-align: center;
           align-items: center;
           justify-content: center;
-            margin-right: 5px;
-          width: 290px;
+            padding-right: 5%;
+          width: 100vw;
       }
       .punheader{
         font-size: 16px;
@@ -807,7 +808,7 @@ nav {
         flex-direction: column;
           margin-left: 5px;
           margin-right: 5px;
-          width: 300px;
+          width:100vw;
       }
       .tar{
         display: flex;
@@ -824,7 +825,7 @@ nav {
       }
       .table{
           flex-direction: row;
-          width: 300px;
+          width: 100vw;
       }
       .tab_u{
         font-size: 10px;
@@ -846,7 +847,7 @@ nav {
           padding-right: 30px;
       }
       .list{
-          width:300px;
+          width:100vw;
           
 
       }
@@ -895,7 +896,7 @@ nav {
       }
      
       .block3{
-          width: 300px;
+          width: 100vw;
           margin-top: 15%;
           margin-left: 10px;
           margin-right: 10px;
@@ -926,7 +927,7 @@ nav {
         font-size: 12px;
       }
       .block4{
-          width: 300px;
+          width: 100vw;
           height: max-content;
           margin: 0;
           margin-top: -30%;
@@ -974,14 +975,14 @@ nav {
         margin-bottom: -10%;
       }
       .block5_bg{
-          width: 300px;
+          width: 100vw;
           margin: 0;
           background: url(img/D-back.svg);
           background-size: 400%;
           background-position: -2% 0;
       }
       .block5{
-          width: 300px;
+          width: 100vw;
           margin-right: 10px;
           margin-top: 5%;
           margin-left: 10px;
@@ -1033,7 +1034,7 @@ nav {
         flex-direction: column;
       }
       .block6{
-          width: 300px;
+          width: 100vw;
           margin-top: 5%;
           margin-left: 10px;
           margin-right: 10px;
@@ -1065,7 +1066,7 @@ nav {
       }
       .block7{
         flex-direction: column;
-          width:300px;
+          width:100vw;
           margin-top:10%;
           margin-left: 10px;
           margin-right: 10px;
@@ -1111,7 +1112,7 @@ nav {
       }
       .block8{
         margin-top: 30%;
-        width: 300px;
+        width: 100vw;
         margin:0;
       }
       .bl8_h{
@@ -1122,11 +1123,11 @@ nav {
           }
 
       .block9{
-          width: 300px;
+          width: 100vw;
           margin: 0;
       }
       .block10{
-        width: 300px;
+        width: 100vw;
         margin: 0;
         text-align: center;
       }
@@ -1145,11 +1146,11 @@ nav {
       .footer{
         margin-top: 10%;
         flex-direction: column;
-        width:300px;
+        width:100vw;
       }
       .foot_l{
         margin-left: 0;
-        width: 300px;
+        width: 100vw;
       }
       .f_lh{
         margin-top: 20%;
@@ -1158,7 +1159,7 @@ nav {
         text-align: center;
       }
       .f_lt{
-        width:300px;
+        width:100vw;
         font-size: 12px;
         padding-left: 10px;
         padding-right: 10px;
@@ -1184,7 +1185,7 @@ nav {
       }
       .foot_r{
         margin-left: 0;
-        width:300px;
+        width:100vw;
         padding-right: 10px;
         padding-left: 10px;
       }
