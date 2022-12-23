@@ -13,7 +13,7 @@
 </head>
 <body id = "body" >
     <div class = "back" style = "margin-bottom: 100px;">
-        
+        <div class = "backB">
         <img class = "bg_video" src = "img/back.png">
             <video autoplay loop muted class="bgvideo" id="bgvideo">
                 <source class = "source" src="img/video.mp4" type="video/mp4"></source>
@@ -31,6 +31,7 @@
             
             });
             </script>
+            
           <div id="button" class="button"><img src = "https://e7.pngegg.com/pngimages/866/79/png-clipart-three-blue-lines-illustration-blue-hamburger-menu-icon-icons-logos-emojis-menu-icons.png"></div>  
           <div class = "href_l">
           <nav class="one">
@@ -59,7 +60,8 @@
               <li><a class = "href" href="/">Контакты</a></li>
             </ul>
           </nav>
-          </div>          
+          </div>
+
         </header>
     <div class = "unheader">
         <div class = "unheader_l">
@@ -106,7 +108,7 @@
         </div>
     </div>
 	</div>
-
+</div>
     <div class = "list">
         <div class = "block2">
             <div class = "header_t">13 лет совершенствуем компетенции в Друпал поддержке!</div>
@@ -365,6 +367,7 @@
 
       <!-- <div class = "block9">
             <section class="views-element-container block block-views block-views-blocktestimonials-block-1 clearfix" id="block-views-block-testimonials-block-1">
+
                 <h2 class="block-title">Отзывы</h2>
               
                 <div class="form-group"><div class="container view view-testimonials view-id-testimonials view-display-id-block_1 js-view-dom-id-5ffd129b1650e11efd6ab5de5318c3dea7f9e68a29b33862aa42966f954469e6">
@@ -468,7 +471,7 @@
             <div class = "bl10_t">Десятки компаний доверяют нам самое ценное, что у них есть в интернете - свои сайты. Мы делаем всё, чтобы наше сотрудничество было долгим.</div>
         </div>
 
-
+     <div class = "footer_bg">
         <footer class = "footer">
             <div class = "foot_l">
                 <div class = "f_lh">Оставить заявку на поддержку сайта</div>
@@ -478,67 +481,55 @@
                 </div>
             </div>
             <div class="foot_r"> 
-                <!-- <form class="ajaxForm popup" action="https://formcarry.com/s/MnGhyNqlx8q" method="POST" accept-charset="UTF-8">
-                    <div class = "l_bl">
-                        <label>
-                            <input type="text" name="Name" required="required">
-                            <div class="label__text">
-                                Ваше имя:
-                            </div>
-                        </label>
-                    </div>
-                    <div class = "l_bl">
-                        <label>
-                            <input type="mobile" name="mobile" required="required">
-                            <div class="label__text">
-                                Телефон:
-                            </div>
-                        </label>
-                    </div>
-                    <div class = "l_bl">
-                        <label>
-                        <input type="email" name="email" required="required">
-                        <div class="label__text">
-                            E-mail:
-                        </div>
-                        </label>
-                    </div>
-                    <div class = "l_bl">
-                        <label>
-                            <textarea name="Message"></textarea>
-                            <div class="label__text">
-                                Ваш комментарий:
-                            </div>
-                        </label>
-                    </div>
-                    <label class="custom-checkbox"> 
-                        <input class="hidden-checkbox" type="checkbox">
-                        <div class="checkbox"> 
-                            <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="#ffffff" d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
-                        </div>
-                        Отправляя заявку, я даю согласие на <a class = "href" href = "/">обработку своих персональных данных.*</a>
-                    </label>
+                <form id="form" action="https://formcarry.com/s/b3fWQsb4k" method="POST" accept-charset="UTF-8">
+                    <div class="form_bl">
+                        <input class="inp_area" type="text" name="Name" maxlength="255" placeholder="Ваше имя" required="required" aria-required="true">
+                    </div>    
                     
-                    <button type="submit" name="formButton">СВЯЖИТЕСЬ С НАМИ</button>
-                </form>-->
+                    <div class="form_bl">
+                        <input class="inp_area" type="number" name="Num" maxlength="255" placeholder="Телефон" required="required" aria-required="true">
+                    </div>    
+                    
+                    <div class="form_bl">
+                        <input class="inp_area" type="email" name="email" maxlength="255" placeholder="E-mail" required="required" aria-required="true">
+                    </div>
 
+                    <div class="form_bl">
+                        <textarea class="inp_area" name="Message" rows="5" placeholder="Ваш комментарий" required="required" aria-required="true"></textarea></textarea>
+                    </div>    
+                    
+                    <div>
+                        <div class="form_bl_check" style="display: inline;" >
+                            <input class="hidden-checkbox" type="checkbox" required="required" aria-required="true">
+                            <p style="font-size:small;">Отправляя заявку, я даю согласие <a href="" style="color:#f14c31; text-decoration: none;">на обработку своих персональных данных. *</a></p>
+                        </div>    
+                    </div>
+                    <button type="submit" style="color:white ; border-radius: 5px; border: 2px solid #f14c31; background: #f14c31; width: 100%; height: 50px; text-align: center;" value="СВЯЖИТЕСЬ С НАМИ">СВЯЖИТЕСЬ С НАМИ</button>
+                </form>
 
-                <form class="form" name="feedback" method="POST" action="/feedback.php">
-                    <input type="text" name="name" required="required" value="Ваше имя">
-                    <input type="phone" name="phone" required="required" value="Телефон">
-                    <input type="email" name="email" required="required" value="Е-mail">
-                    <textarea name="message">Ваш коментарий</textarea>
-                    <label class="custom-checkbox"> 
-                        <input class="checkbox" type="checkbox">
-                        <div class = "cb_t">
-                        Отправляя заявку, я даю согласие на <a class = "cb_href" href = "/">обработку своих персональных данных.*</a>
-                        </div></label>
-                    <input type="submit" name="submit_btn" value="СВЯЖИТЕСЬ С НАМИ">
-                  </form>
-            </div>  
+              </div>
         
-            <script src="script.js"></script>
+        
         </footer>
+         
+        <div class="unform">
+            <div class = "unform_bl">
+                    <div class="social-links">
+                        <ul class="social-links-wrapper">
+                            <li class="social-links-item"><a target="_blank" href="https://vk.com/initlab"><img style="width: 25px; margin-bottom: 5px;" src="img/free-vk-icon-120-thumb.png" alt="soc"></a></li>
+                            <li class="social-links-item"><a target="_blank" href="https://teleg.one/initlabbot"><img style="width: 25px; margin-bottom: 5px;" src="img/2582606.png" alt="soc"></a></li>
+                            <li class="social-links-item"><a target="_blank" href="https://www.youtube.com/channel/UCyFEbngMB-bK2ulNtd_W43A"><img style="width: 25px; margin-bottom: 5px;" alt="soc" src="img/152810.png"></a></li>
+                            <li class="social-links-item"><a target="_blank" href="https://zen.yandex.ru/id/6037ce072f500a068c630fec"><img style="width: 25px; margin-bottom: 5px;" alt="soc" src="img/zen-icon.svg"></a></li>
+                        </ul>
+                    </div>
+                    <p style="color:white; ">ООО «Инитлаб», Краснодар, Россия.
+                        <a style="text-decoration: none; color: white;" href="">8 800 222-26-73</a>
+                        Drupal является зарегистрированной торговой маркой Dries Buytaert.
+                    </p>
+            </div>
+        </div>
+            <script src="script.js"></script>
+        </div>     
     </div>
 </body>
 </html>
