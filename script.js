@@ -1,16 +1,6 @@
-let popupBg = document.querySelector('.popup__bg'); // Фон попап окна
-let popup = document.querySelector('.popup'); // Само окно
-
-openPopupButtons.forEach((button) => { // Перебираем все кнопки
-    button.addEventListener('click', (e) => { // Для каждой вешаем обработчик событий на клик
-        e.preventDefault(); // Предотвращаем дефолтное поведение браузера
-        popupBg.classList.add('active'); // Добавляем класс 'active' для фона
-        popup.classList.add('active'); // И для самого окна
-    })
-});
 
 $(function(){
-    $(".ajaxForm").submit(function(e){
+    $(".form_a").submit(function(e){
         e.preventDefault();
         var href = $(this).attr("action");
         $.ajax({
@@ -20,11 +10,16 @@ $(function(){
             data: $(this).serialize(),
             success: function(response){
                 if(response.status == "success"){
-                    alert("Форма отправлена");
+                    alert("We received your submission, thank you!");
                 }else{
-                    alert("Ошибка: " + response.message);
+                    alert("An error occured: " + response.message);
                 }
-            }
+            },
+            error: function(){
+                alert("Connection error. Please, try again later!");
+                }
         });
     });
-});
+})
+
+
