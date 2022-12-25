@@ -962,7 +962,6 @@ textarea{
       .table{
           flex-direction: row;
           width: 90vw;
-          padding-left: 5%;
           padding-right: 5%;
           padding-top: 20px ;
       }
@@ -1156,7 +1155,7 @@ textarea{
         height: 420px;
       }
       .bl5_c{
-        margin-left: -8%;
+        margin-left: 0;
       }
       .bl5_hd{
         font-size: 18px;
@@ -1411,14 +1410,15 @@ textarea{
       background-size: 50% ;
      }
 
+
      .href_l{
       display: none;
      }
      .nav_menu_box{
       position: fixed;
+      display: block;
       bottom: 0;
       left:0;
-      top: auto;
       width: 100vw;
       height: 35px;
       background-color: #000;
@@ -1430,8 +1430,7 @@ textarea{
       padding-right: 0;
       padding-top: 2px;
       padding-bottom: 6px;
-      flex-wrap: wrap;
-      
+      flex-wrap: wrap;  
   }
   
   .nav_menu{
