@@ -1152,6 +1152,7 @@ margin-right: 300px;
       margin-right: 2%;
       display: flex;
       justify-content: center;
+      align-items: center;
      
     }
     .bl5_elem:hover{
