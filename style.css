@@ -290,7 +290,7 @@ nav {
       margin-right: 300px;
       flex-direction: column;
       justify-content: center;
-      text-align: center;
+    
       z-index: 1;
      position:relative;
   }
