@@ -21,5 +21,9 @@ $(function(){
         });
     });
 })
+var el = document.getElementById("navContent");
 
+function toggle() {
+  el.style.display = (el.style.display == 'grid') ? 'none' : 'grid';
+}
 
