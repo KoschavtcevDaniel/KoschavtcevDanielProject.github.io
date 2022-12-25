@@ -1150,6 +1150,8 @@ margin-right: 300px;
       width: 80vw;
       height: 400px;
       margin-right: 2%;
+      display: flex;
+      justify-content: center;
      
     }
     .bl5_elem:hover{
@@ -1465,7 +1467,8 @@ margin-right: 300px;
 
 .visible_nav{
     display: flex;
-    justify-content:space-between;
+    justify-content:space-between;/
+  height:5vh;
 }
 
 .list_nav li{
