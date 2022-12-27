@@ -1,4 +1,6 @@
 
+var b = document.getElementByClass("but");
+
 $(function(){
     $(".form_a").submit(function(e){
         e.preventDefault();
@@ -10,20 +12,21 @@ $(function(){
             data: $(this).serialize(),
             success: function(response){
                 if(response.status == "success"){
-                    alert("We received your submission, thank you!");
+                    b.innerHTML = "We received your submission, thank you!";
                 }else{
-                    alert("An error occured: " + response.message);
+                    b.innerHTML = "An error occured: " + response.message;
                 }
             },
             error: function(){
-                alert("Connection error. Please, try again later!");
+                b.innerHTML = "Connection error. Please, try again later!";
                 }
         });
     });
 })
+
+
 var el = document.getElementById("navContent");
 
 function toggle() {
   el.style.display = (el.style.display == 'grid') ? 'none' : 'grid';
 }
-
